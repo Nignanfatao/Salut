@@ -1,0 +1,47 @@
+2024-07-12 06:42:15.654 [info] Log level: Info
+2024-07-12 06:42:15.654 [info] Validating found git in: "git"
+2024-07-12 06:42:15.654 [info] Using git "2.34.1" from "git"
+2024-07-12 06:42:15.654 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-12 06:42:15.654 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.654 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-12 06:42:15.654 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.654 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-12 06:42:15.654 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.654 [info] > git rev-parse --show-toplevel [246ms]
+2024-07-12 06:42:15.655 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.655 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-12 06:42:15.655 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.685 [info] > git rev-parse --show-toplevel [31ms]
+2024-07-12 06:42:15.685 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.735 [info] > git rev-parse --show-toplevel [14ms]
+2024-07-12 06:42:15.735 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.763 [info] > git rev-parse --show-toplevel [16ms]
+2024-07-12 06:42:15.763 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.779 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-12 06:42:15.779 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-12 06:42:15.795 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-12 06:42:15.812 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-07-12 06:42:15.842 [info] Open repository: /home/nignanfatao12345/tesbot_md
+2024-07-12 06:42:15.884 [info] > git config --get commit.template [22ms]
+2024-07-12 06:42:15.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-07-12 06:42:15.904 [warning] ENOENT: no such file or directory, open '/home/nignanfatao12345/tesbot_md/.git/refs/remotes/origin/main'
+2024-07-12 06:42:15.909 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-07-12 06:42:15.931 [info] > git status -z -uall [9ms]
+2024-07-12 06:42:15.987 [info] > git merge-base refs/heads/main refs/remotes/origin/main [40ms]
+2024-07-12 06:42:16.007 [info] > git config --get commit.template [20ms]
+2024-07-12 06:42:16.024 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [20ms]
+2024-07-12 06:42:16.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-07-12 06:42:16.064 [warning] ENOENT: no such file or directory, open '/home/nignanfatao12345/tesbot_md/.git/refs/remotes/origin/main'
+2024-07-12 06:42:16.065 [info] > git diff --name-status -z --diff-filter=ADMR 37c26d735767eb790bfadd7d6b71a6aca710c6e1...refs/remotes/origin/main [19ms]
+2024-07-12 06:42:16.082 [info] > git rev-parse refs/remotes/origin/main [18ms]
+2024-07-12 06:42:16.100 [info] > git status -z -uall [7ms]
+2024-07-12 06:42:19.022 [info] > git check-ignore -v -z --stdin [56ms]

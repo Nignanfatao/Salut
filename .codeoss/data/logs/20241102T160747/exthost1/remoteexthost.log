@@ -1,0 +1,5 @@
+2024-11-02 16:15:17.249 [info] Extension host with pid 5874 started
+2024-11-02 16:15:17.292 [info] Lock '/home/nignanfatao12345/.codeoss/data/User/workspaceStorage/-16f6fd58/vscode.lock': Lock acquired.
+2024-11-02 17:12:10.146 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-11-02 17:12:10.148 [info] Lock '/home/nignanfatao12345/.codeoss/data/User/workspaceStorage/-16f6fd58/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-11-02 17:12:10.152 [info] Extension host with pid 5874 exiting with code 0

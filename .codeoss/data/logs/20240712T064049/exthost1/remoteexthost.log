@@ -1,0 +1,302 @@
+2024-07-12 06:41:08.554 [info] Extension host with pid 5590 started
+2024-07-12 06:41:08.568 [info] Lock '/home/nignanfatao12345/.codeoss/data/User/workspaceStorage/16bd4d1b/vscode.lock': Lock acquired.
+2024-07-12 06:41:08.994 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-12 06:41:09.998 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-12 06:41:10.740 [info] ExtensionService#_doActivateExtension redhat.fabric8-analytics, startup: true, activationEvent: 'workspaceContains:**/package.json,**/pom.xml,**/go.mod,**/requirements.txt'
+2024-07-12 06:41:11.268 [error] No bundle location found for extension vscode.emmet
+2024-07-12 06:41:11.268 [error] No bundle location found for extension vscode.git-base
+2024-07-12 06:41:11.324 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-12 06:41:11.325 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-12 06:41:11.906 [error] No bundle location found for extension redhat.fabric8-analytics
+2024-07-12 06:41:12.204 [error] No bundle location found for extension vscode.github
+2024-07-12 06:41:12.204 [error] No bundle location found for extension vscode.git
+2024-07-12 06:41:12.337 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-07-12 06:41:12.340 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-07-12 06:41:12.342 [warning] Using default string since no string found in i18n bundle that has the key: Validating found git in: "{0}"
+2024-07-12 06:41:12.359 [warning] Using default string since no string found in i18n bundle that has the key: Enables the following features: {0}
+2024-07-12 06:41:12.360 [warning] Using default string since no string found in i18n bundle that has the key: Using git "{0}" from "{1}"
+2024-07-12 06:41:12.380 [warning] Using default string since no string found in i18n bundle that has the key: Git History
+2024-07-12 06:41:12.388 [warning] Using default string since no string found in i18n bundle that has the key: Copy vscode.dev Link
+2024-07-12 06:41:12.389 [info] Eager extensions activated
+2024-07-12 06:41:12.390 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 06:41:12.391 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 06:41:12.391 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 06:41:12.391 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 06:41:12.392 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 06:41:12.740 [warning] Using default string since no string found in i18n bundle that has the key: Git local working changes
+2024-07-12 06:41:12.741 [warning] Using default string since no string found in i18n bundle that has the key: Commit
+2024-07-12 06:41:12.742 [warning] Using default string since no string found in i18n bundle that has the key: Message ({0} to commit)
+2024-07-12 06:41:12.742 [warning] Using default string since no string found in i18n bundle that has the key: Merge Changes
+2024-07-12 06:41:12.742 [warning] Using default string since no string found in i18n bundle that has the key: Staged Changes
+2024-07-12 06:41:12.743 [warning] Using default string since no string found in i18n bundle that has the key: Changes
+2024-07-12 06:41:12.743 [warning] Using default string since no string found in i18n bundle that has the key: Untracked Changes
+2024-07-12 06:41:12.747 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.747 [warning] Using default string since no string found in i18n bundle that has the key: Publish to {0}
+2024-07-12 06:41:12.754 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.755 [warning] Using default string since no string found in i18n bundle that has the key: Publish to {0}
+2024-07-12 06:41:12.755 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.755 [warning] Using default string since no string found in i18n bundle that has the key: Publish to {0}
+2024-07-12 06:41:12.756 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.756 [warning] Using default string since no string found in i18n bundle that has the key: Publish to {0}
+2024-07-12 06:41:12.844 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.844 [warning] Using default string since no string found in i18n bundle that has the key: Publish to {0}
+2024-07-12 06:41:12.844 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.844 [warning] Using default string since no string found in i18n bundle that has the key: Publish to {0}
+2024-07-12 06:41:12.855 [warning] Using default string since no string found in i18n bundle that has the key: Message ({0} to commit on "{1}")
+2024-07-12 06:41:12.855 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.855 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.856 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.856 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.859 [warning] Using default string since no string found in i18n bundle that has the key: Commit & Push Changes
+2024-07-12 06:41:12.859 [warning] Using default string since no string found in i18n bundle that has the key: Commit & Sync Changes
+2024-07-12 06:41:12.859 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit & Push
+2024-07-12 06:41:12.859 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit & Sync
+2024-07-12 06:41:12.860 [warning] Using default string since no string found in i18n bundle that has the key: Commit Changes on "{0}"
+2024-07-12 06:41:12.860 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit
+2024-07-12 06:41:12.863 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit (Amend)
+2024-07-12 06:41:12.864 [warning] Using default string since no string found in i18n bundle that has the key: Commit Changes on "{0}"
+2024-07-12 06:41:12.864 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit
+2024-07-12 06:41:12.864 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit (Amend)
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: Commit & Push Changes
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: Commit & Sync Changes
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit & Push
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit & Sync
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: Commit Changes on "{0}"
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit
+2024-07-12 06:41:12.865 [warning] Using default string since no string found in i18n bundle that has the key: {0} Commit (Amend)
+2024-07-12 06:41:12.867 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.867 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.867 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.867 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.869 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.869 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.869 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.869 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.884 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.884 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.884 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.885 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.885 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.885 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.885 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.886 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.921 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.921 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.921 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.921 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.922 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.922 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.922 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.922 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.953 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.954 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.954 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.954 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.968 [warning] Using default string since no string found in i18n bundle that has the key: Message ({0} to commit on "{1}")
+2024-07-12 06:41:12.968 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.968 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.969 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.969 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.969 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.969 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:12.969 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:12.969 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:13.200 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-12 06:41:13.575 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:13.575 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:13.577 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:13.577 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:13.612 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:13.612 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:13.612 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:13.613 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:14.031 [error] No bundle location found for extension google.cloud-shell
+2024-07-12 06:41:14.266 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-12 06:41:14.267 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-12 06:41:14.384 [error] No bundle location found for extension googlecloudtools.cloudcode
+2024-07-12 06:41:17.037 [error] No bundle location found for extension vscode.debug-auto-launch
+2024-07-12 06:41:17.037 [error] No bundle location found for extension vscode.github-authentication
+2024-07-12 06:41:17.037 [error] No bundle location found for extension vscode.merge-conflict
+2024-07-12 06:41:17.037 [error] No bundle location found for extension EditorConfig.EditorConfig
+2024-07-12 06:41:17.037 [error] No bundle location found for extension vscode.json-language-features
+2024-07-12 06:41:17.037 [error] No bundle location found for extension vscode.typescript-language-features
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Always
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Smart
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: With Flag
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Disabled
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Smart
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Only With Flag
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach is disabled and not shown in status bar
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach to every Node.js process launched in the terminal
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach when running scripts that aren't in a node_modules folder
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Only auto attach when the `--inspect` flag is given
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach in this workspace
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach on this machine
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Temporarily disable auto attach in this session
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Re-enable auto attach
+2024-07-12 06:41:17.049 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-07-12 06:41:17.090 [warning] Using default string since no string found in i18n bundle that has the key: url handler
+2024-07-12 06:41:17.090 [warning] Using default string since no string found in i18n bundle that has the key: local server
+2024-07-12 06:41:17.090 [warning] Using default string since no string found in i18n bundle that has the key: device code
+2024-07-12 06:41:17.090 [warning] Using default string since no string found in i18n bundle that has the key: personal access token
+2024-07-12 06:41:17.216 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2024-07-12 06:41:17.216 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2024-07-12 06:41:17.292 [warning] Using default string since no string found in i18n bundle that has the key: Learn more about managing TypeScript versions
+2024-07-12 06:41:17.309 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-07-12 06:41:17.309 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-07-12 06:41:17.365 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2024-07-12 06:41:17.639 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2024-07-12 06:41:17.640 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2024-07-12 06:41:17.641 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-07-12 06:41:29.912 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-07-12 06:41:29.913 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-07-12 06:41:29.913 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-07-12 06:41:29.943 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-07-12 06:41:29.943 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-07-12 06:41:29.943 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-07-12 06:41:31.302 [error] No bundle location found for extension vscode.extension-editing
+2024-07-12 06:41:31.302 [error] No bundle location found for extension vscode.npm
+2024-07-12 06:41:31.322 [warning] Using default string since no string found in i18n bundle that has the key: This activation event cannot be explicitly listed by your extension.
+2024-07-12 06:41:31.322 [warning] Using default string since no string found in i18n bundle that has the key: This activation event can be removed as Code OSS generates these automatically from your package.json contribution declarations.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Images must use the HTTPS protocol.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: SVGs are not a valid image source.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Embedded SVGs are not a valid image source.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Data URLs are not a valid image source.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Relative image URLs require a repository with HTTPS protocol to be specified in the package.json.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Relative badge URLs require a repository with HTTPS protocol to be specified in this package.json.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: This proposal cannot be used because for this extension the product defines a fixed set of API proposals. You can test your extension but before publishing you MUST reach out to the Code OSS team.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: This activation event can be removed for extensions targeting engine version ^1.75 as Code OSS will generate these automatically from your package.json contribution declarations.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Using '*' activation is usually a bad idea as it impacts performance.
+2024-07-12 06:41:31.324 [warning] Using default string since no string found in i18n bundle that has the key: Error parsing the when-clause:
+2024-07-12 06:41:36.634 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:36.634 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:36.634 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:36.634 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:36.664 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:36.664 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:36.664 [warning] Using default string since no string found in i18n bundle that has the key: Checkout Branch/Tag...
+2024-07-12 06:41:36.664 [warning] Using default string since no string found in i18n bundle that has the key: Synchronize Changes
+2024-07-12 06:41:40.746 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-07-12 06:41:40.748 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-07-12 06:41:42.293 [error] No bundle location found for extension vscode.media-preview
+2024-07-12 06:41:42.308 [warning] Using default string since no string found in i18n bundle that has the key: Image Binary Size
+2024-07-12 06:41:42.309 [warning] Using default string since no string found in i18n bundle that has the key: Image Size
+2024-07-12 06:41:42.309 [warning] Using default string since no string found in i18n bundle that has the key: Image Zoom
+2024-07-12 06:41:42.608 [warning] Using default string since no string found in i18n bundle that has the key: Whole Image
+2024-07-12 06:41:42.609 [warning] Using default string since no string found in i18n bundle that has the key: An error occurred while loading the image.
+2024-07-12 06:41:42.609 [warning] Using default string since no string found in i18n bundle that has the key: Open file using Code OSS's standard text/binary editor?
+2024-07-12 06:41:42.904 [warning] Using default string since no string found in i18n bundle that has the key: {0}KB
+2024-07-12 06:41:42.904 [warning] Using default string since no string found in i18n bundle that has the key: Whole Image
+2024-07-12 06:41:46.163 [info] Extension host terminating: received terminate message from renderer
+2024-07-12 06:41:46.165 [info] Lock '/home/nignanfatao12345/.codeoss/data/User/workspaceStorage/16bd4d1b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-07-12 06:41:46.223 [error] Canceled: Canceled
+    at new L (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.O [as value] (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:167800)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:186884)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:192922
+    at Array.forEach (<anonymous>)
+    at f.dispose (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:192908)
+    at h.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:170057)
+    at h.dispose (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:176:7969)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at u.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:14175)
+    at r.z (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:17240)
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:15692)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at f.acceptChunk (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:11949)
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:11236)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at i.z (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:19732)
+    at i.acceptFrame (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:19538)
+    at n (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:18037)
+    at /google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:15257
+    at Socket.S (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:13162)
+    at Socket.emit (node:events:517:28)
+    at addChunk (node:internal/streams/readable:335:12)
+    at readableAddChunk (node:internal/streams/readable:308:9)
+    at Socket.Readable.push (node:internal/streams/readable:245:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-07-12 06:41:46.232 [error] Canceled: Canceled
+    at new L (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/google/devshell/editor/code-oss-for-cloud-shell/extensions/github/dist/extension.js:2:25681)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/github/dist/extension.js:2:26640
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:273373)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:186884)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:192922
+    at Array.forEach (<anonymous>)
+    at f.dispose (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:192908)
+    at h.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/git/dist/main.js:2:170057)
+    at h.dispose (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:176:7969)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at u.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:14175)
+    at r.z (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:17240)
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:15692)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at f.acceptChunk (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:11949)
+    at a.value (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:107:11236)
+    at o.y (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at i.z (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:19732)
+    at i.acceptFrame (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:19538)
+    at n (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:18037)
+    at /google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:15257
+    at Socket.S (/google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:173:13162)
+    at Socket.emit (node:events:517:28)
+    at addChunk (node:internal/streams/readable:335:12)
+    at readableAddChunk (node:internal/streams/readable:308:9)
+    at Socket.Readable.push (node:internal/streams/readable:245:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-07-12 06:41:46.249 [info] Extension host with pid 5590 exiting with code 0

@@ -1,0 +1,65 @@
+2024-07-12T06:24:35: PM2 log: ===============================================================================
+2024-07-12T06:24:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-07-12T06:24:35: PM2 log: Time                 : Fri Jul 12 2024 06:24:35 GMT+0000 (Coordinated Universal Time)
+2024-07-12T06:24:35: PM2 log: PM2 version          : 5.4.2
+2024-07-12T06:24:35: PM2 log: Node.js version      : 14.21.3
+2024-07-12T06:24:35: PM2 log: Current arch         : x64
+2024-07-12T06:24:35: PM2 log: PM2 home             : /home/nignanfatao12345/.pm2
+2024-07-12T06:24:35: PM2 log: PM2 PID file         : /home/nignanfatao12345/.pm2/pm2.pid
+2024-07-12T06:24:35: PM2 log: RPC socket file      : /home/nignanfatao12345/.pm2/rpc.sock
+2024-07-12T06:24:35: PM2 log: BUS socket file      : /home/nignanfatao12345/.pm2/pub.sock
+2024-07-12T06:24:35: PM2 log: Application log path : /home/nignanfatao12345/.pm2/logs
+2024-07-12T06:24:35: PM2 log: Worker Interval      : 30000
+2024-07-12T06:24:35: PM2 log: Process dump file    : /home/nignanfatao12345/.pm2/dump.pm2
+2024-07-12T06:24:35: PM2 log: Concurrent actions   : 2
+2024-07-12T06:24:35: PM2 log: SIGTERM timeout      : 1600
+2024-07-12T06:24:35: PM2 log: ===============================================================================
+2024-07-12T06:24:35: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:35: PM2 log: App [index:0] online
+2024-07-12T06:24:36: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:36: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:36: PM2 log: App [index:0] online
+2024-07-12T06:24:36: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:36: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:36: PM2 log: App [index:0] online
+2024-07-12T06:24:36: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:36: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:36: PM2 log: App [index:0] online
+2024-07-12T06:24:37: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:37: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:37: PM2 log: App [index:0] online
+2024-07-12T06:24:37: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:37: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:37: PM2 log: App [index:0] online
+2024-07-12T06:24:37: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:37: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:37: PM2 log: App [index:0] online
+2024-07-12T06:24:38: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:38: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:38: PM2 log: App [index:0] online
+2024-07-12T06:24:38: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:38: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:38: PM2 log: App [index:0] online
+2024-07-12T06:24:38: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:38: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:38: PM2 log: App [index:0] online
+2024-07-12T06:24:38: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:38: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:38: PM2 log: App [index:0] online
+2024-07-12T06:24:39: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:39: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:39: PM2 log: App [index:0] online
+2024-07-12T06:24:39: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:39: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:39: PM2 log: App [index:0] online
+2024-07-12T06:24:39: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:39: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:39: PM2 log: App [index:0] online
+2024-07-12T06:24:39: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:39: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:40: PM2 log: App [index:0] online
+2024-07-12T06:24:40: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:40: PM2 log: App [index:0] starting in -fork mode-
+2024-07-12T06:24:40: PM2 log: App [index:0] online
+2024-07-12T06:24:40: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-07-12T06:24:40: PM2 log: Script /home/nignanfatao12345/tesbot_md/index.js had too many unstable restarts (16). Stopped. "errored"

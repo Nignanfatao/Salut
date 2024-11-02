@@ -1,0 +1,18 @@
+2024-07-12 06:40:49.409 [info] 
+
+
+
+
+2024-07-12 06:40:49.409 [info] Extension host agent started.
+2024-07-12 06:40:49.411 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nignanfatao12345/.codeoss/extensions
+2024-07-12 06:40:49.431 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nignanfatao12345/.codeoss/extensions
+2024-07-12 06:40:59.729 [info] [127.0.0.1][bcad3e2d][ManagementConnection] New connection established.
+2024-07-12 06:40:59.876 [info] [127.0.0.1][71ec6d4e][ExtensionHostConnection] New connection established.
+2024-07-12 06:41:01.407 [info] [127.0.0.1][71ec6d4e][ExtensionHostConnection] <5590> Launched Extension Host Process.
+2024-07-12 06:41:46.130 [info] [127.0.0.1][bcad3e2d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-12 06:41:46.304 [info] [127.0.0.1][71ec6d4e][ExtensionHostConnection] <5590> Extension Host Process exited with code: 0, signal: null.
+2024-07-12 06:42:03.604 [info] [127.0.0.1][0acda5dd][ManagementConnection] New connection established.
+2024-07-12 06:42:03.897 [info] [127.0.0.1][d37b35c1][ExtensionHostConnection] New connection established.
+2024-07-12 06:42:03.908 [info] [127.0.0.1][d37b35c1][ExtensionHostConnection] <5736> Launched Extension Host Process.
+2024-07-12 06:46:37.670 [info] [127.0.0.1][0acda5dd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-12 06:46:37.832 [info] [127.0.0.1][d37b35c1][ExtensionHostConnection] <5736> Extension Host Process exited with code: 0, signal: null.
